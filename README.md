@@ -1,6 +1,3 @@
-# ProyectoFinalParadigmas
-Proyecto Final Paradigmas
-
 # Proyecto Final – Parte 1: Diseño de Arquitectura
 ### Paradigmas y Técnicas de Programación
 ### RoboEscape: The Lab Simulation
