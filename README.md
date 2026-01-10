@@ -1,10 +1,13 @@
-# RoboEscape: The Lab Simulation  
-## Proyecto Final – Parte 1: Diseño de Arquitectura  
+# CastleEscape: The Castle Simulation  
+## Proyecto Final – Diseño de Arquitectura  
 Paradigmas y Técnicas de Programación
 
 ## Autoras
 - Irene Turrado Sierra  
-- María Román Cantillana  
+- María Román Cantillana
+
+## IMPORTANTE:
+En relación con la versión compilada del proyecto, se adjunta el ejecutable solicitado aunque, debido a problemas con la compilacion del NavMesh no funciona el comportamiento de los enemigosde forma completamente correcta fuera del entorno de Unity. Por este motivo, se ruega que la evaluación principal del funcionamiento del juego se realice a partir del proyecto ejecutado directamente en Unity, así como de los vídeos de demostración entregados, en los que se puede comprobar el comportamiento correcto de los enemigos, el sistema de navegación y el desarrollo completo de la partida tal y como fue diseñado e implementado.
 
 ## Descripción del proyecto
 CastleEscape: es un videojuego desarrollado en Unity en el que el jugador controla un cowboy que debe escapar de un castillo medival vigilado por distintos drones con distintos comportamientos inteligentes.
