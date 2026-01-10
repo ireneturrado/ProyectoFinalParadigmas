@@ -7,7 +7,7 @@ Paradigmas y Técnicas de Programación
 - María Román Cantillana  
 
 ## Descripción del proyecto
-RoboEscape: The Lab Simulation es un videojuego desarrollado en Unity en el que el jugador controla un robot que debe escapar de un laboratorio vigilado por drones con distintos comportamientos inteligentes.
+CastleEscape: es un videojuego desarrollado en Unity en el que el jugador controla un cowboy que debe escapar de un castillo medival vigilado por distintos drones con distintos comportamientos inteligentes.
 
 El proyecto se centra en el diseño de la arquitectura del sistema, aplicando principios SOLID, patrones de diseño y una clara separación de responsabilidades, con el objetivo de lograr una solución modular, mantenible y extensible.
 
@@ -41,7 +41,9 @@ Se incluye una memoria del diseño de la arquitectura del sistema, en la que se 
 - Decisiones de diseño y justificación de la arquitectura  
 
 Archivo:  
-ProyectoFinalDoc.pdf (antes de realizar el proyecto)
+ProyectoFinalDoc.pdf (antes de realizar el proyecto)  
+
+Tras la realización del trabajo, redactamos el PDF con los cambios y dificultades, que desarrollan como hemos ido haciendo el trabajo y explicando los cambios realizados. 
 CastleEscape.pdf (pdf despues de realizar el proyecto, con los cambios y dificultades)
 
 ## Tecnologías utilizadas
